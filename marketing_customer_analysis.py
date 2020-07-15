@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# https://towardsdatascience.com/data-driven-growth-with-python-part-2-customer-segmentation-5c019d150444
+# References:https://towardsdatascience.com/data-driven-growth-with-python-part-2-customer-segmentation-5c019d150444
 # 
 
 # RFM
